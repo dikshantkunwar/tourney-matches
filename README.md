@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Tourney matches 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Purpose of this project is to create a react app that displays tournament matchups and player standings (for small friendly tournaments) using [create-react-app](https://github.com/facebook/create-react-app)
+
 
 ## Available Scripts
 
